@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-selfbot-v13",
+  "name": "discord.js-v13",
   "version": "3.7.1",
-  "description": "An unofficial discord.js fork for creating selfbots",
+  "description": "An unofficial discord.js fork",
   "main": "./src/index.js",
   "types": "./typings/index.d.ts",
   "scripts": {
@@ -29,13 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aiko-chan-ai/discord.js-selfbot-v13.git"
+    "url": "git+https://github.com/aiko-chan-ai/discord.js-v13.git"
   },
   "keywords": [
     "discord.js",
     "discord.js v13",
-    "selfbot",
-    "selfbot v13",
     "djs",
     "api",
     "bot",
@@ -47,9 +45,9 @@
   "author": "aiko-chan-ai",
   "license": "GNU General Public License v3.0",
   "bugs": {
-    "url": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues"
+    "url": "https://github.com/aiko-chan-ai/discord.js-v13/issues"
   },
-  "homepage": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13#readme",
+  "homepage": "https://github.com/aiko-chan-ai/discord.js-v13#readme",
   "dependencies": {
     "@discordjs/builders": "^1.6.3",
     "@discordjs/collection": "^2.1.1",
